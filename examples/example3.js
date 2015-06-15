@@ -10,7 +10,7 @@ proxy().html(
     {
         random: true,
         localization: "USA",
-        url: "https://kat.cr/blackhat-2015-bdrip-720p-x264-ac3-english-latino-urbin4hd-eng-spa-subs-t10599713.html"
+        url: "https://www.youtube.com/watch?v=xe1LrMqURuw"
     },
     function (html) {
         "use strict";
