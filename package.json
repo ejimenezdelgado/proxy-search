@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ejimenezdelgado/proxy-search/issues"
   },
-  "homepage": "https://github.com/ejimenezdelgado/proxy-search#readme"
+  "homepage": "https://github.com/ejimenezdelgado/proxy-search#readme",
+  "dependencies": {
+    "zombie": "4.0.10",
+    "cheerio": "^0.19.0"
+  }
 }
